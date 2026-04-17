@@ -24,7 +24,7 @@ Operaciones implementadas:
 
 ## Video Explicativo
 
-[Enlace al video]
+https://youtu.be/YT_qS-TX-1M
 
 ## Instrucciones de Compilación y Ejecución
 
